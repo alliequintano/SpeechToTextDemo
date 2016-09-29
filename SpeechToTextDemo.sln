@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechToTextDemo.CSharp.Plugins", "SpeechToTextDemo.CSharp.Plugins.csproj", "{55EA6F02-03B8-6F6D-EE00-9EA010891E77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechToTextDemo.CSharp", "SpeechToTextDemo.CSharp.csproj", "{5BCDBC28-4316-6891-B484-E99CD97BEDC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeechToTextDemo.CSharp.Editor", "SpeechToTextDemo.CSharp.Editor.csproj", "{19DFDB08-8114-EC8F-D85B-9F9E7DAFF198}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55EA6F02-03B8-6F6D-EE00-9EA010891E77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EA6F02-03B8-6F6D-EE00-9EA010891E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EA6F02-03B8-6F6D-EE00-9EA010891E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EA6F02-03B8-6F6D-EE00-9EA010891E77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BCDBC28-4316-6891-B484-E99CD97BEDC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BCDBC28-4316-6891-B484-E99CD97BEDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BCDBC28-4316-6891-B484-E99CD97BEDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BCDBC28-4316-6891-B484-E99CD97BEDC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19DFDB08-8114-EC8F-D85B-9F9E7DAFF198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DFDB08-8114-EC8F-D85B-9F9E7DAFF198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DFDB08-8114-EC8F-D85B-9F9E7DAFF198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DFDB08-8114-EC8F-D85B-9F9E7DAFF198}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
